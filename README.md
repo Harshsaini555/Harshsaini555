@@ -1,8 +1,4 @@
-<p align="center">
-  <h1> Hi, I'm Harsh Saini 👋 </h1>
-</p>
-
----
+<h1 align="center"> Hi, I'm Harsh Saini 👋 </h1>
 
 <p align="center">
   <strong>Full-Stack AI Engineer</strong>
