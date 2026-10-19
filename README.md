@@ -1,6 +1,5 @@
-![My Portfolio Banner](./banner.png)
+<img src="./banner.png" align="center">
 
----
 
 <h1 align="center"> Hi, I'm Harsh Saini 👋 </h1>
 
