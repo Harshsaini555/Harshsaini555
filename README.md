@@ -78,7 +78,7 @@ An AI-powered application for researching companies and financial information.
 
 **Tech:** JavaScript, React.js, Node.js, LangChain, LangGraph, Yahoo Finance API, TanStack Query
 
-[View Repository →] https://github.com/Harshsaini555/investIQ
+[View Repository →](https://github.com/Harshsaini555/investIQ)
 
 ### ⚡ Notiflow — Event-Driven Notification Platform
 
@@ -91,7 +91,7 @@ A notification platform designed for asynchronous processing and real-time deliv
 
 **Tech:** Next.js, Node.js, Kafka, Redis, Microservices, WebSockets, MongoDB, Docker, Kubernetes
 
-[View Repository →] https://github.com/Harshsaini555/notiflow
+[View Repository →](https://github.com/Harshsaini555/notiflow)
 
 ### 👥 TeamSync — Real-Time Team Collaboration Platform
 
@@ -104,7 +104,7 @@ A collaborative application designed to improve team communication and productiv
 
 **Tech:** Next.js, TypeScript, Node.js, Express.js, MongoDB, Redis, Zod
 
-[View Repository →] https://github.com/Harshsaini555/TeamSync
+[View Repository →](https://github.com/Harshsaini555/TeamSync)
 
 ---
 
