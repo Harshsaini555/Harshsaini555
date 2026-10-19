@@ -1,4 +1,8 @@
-# Hi, I'm Harsh Saini 👋
+<p align="center">
+  # Hi, I'm Harsh Saini 👋
+</p>
+
+---
 
 <p align="center">
   <strong>Full-Stack AI Engineer</strong>
