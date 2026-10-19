@@ -1,138 +1,141 @@
-# Hey, I'm Harsh Saini 👋
+# Hi, I'm Harsh Saini 👋
 
-### Full-Stack AI Engineer | Building Intelligent, Scalable Applications
+<p align="center">
+  <strong>Full-Stack AI Engineer</strong>
+  <br/>
+  Generative AI • LLM Applications • Scalable Applications
+  <br/>
+  Building intelligent, scalable, production-oriented systems
+</p>
 
-I build end-to-end software products by combining **full-stack engineering, Generative AI, and scalable backend systems**.
+---
 
-My focus is on turning AI capabilities into useful products — from intuitive frontend experiences and robust APIs to LLM-powered applications, RAG pipelines, and AI agents.
+## 👨‍💻 About Me
 
-- 🔭 Exploring LLM applications, AI agents, and production-grade AI systems.
-- 🧠 Learning and building with RAG, embeddings, LLM orchestration, and agentic workflows.
-- ⚙️ Interested in API design, distributed systems, event-driven architecture, and system design.
-- 💻 Building with JavaScript, TypeScript, React, Node.js, Python, and modern AI tooling.
-- 🚀 Focused on building reliable, scalable, and practical software.
+I'm a Computer Science student passionate about building **intelligent systems that solve real-world problems**.
+
+My focus is on combining full-stack development with Generative AI to build applications that go beyond simple chatbots — from RAG pipelines and AI agents to complete products with robust APIs, databases, and deployment infrastructure.
+
+I enjoy working on systems involving:
+
+- 🤖 Generative AI and LLM-powered applications
+- 🔎 Retrieval-Augmented Generation (RAG) and semantic search
+- 🧠 AI agents, tool calling, and workflow automation
+- 📄 Document intelligence and information extraction
+- ⚙️ Backend engineering, API design, and distributed systems
+- 🚀 End-to-end application development and deployment
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Full-Stack Development
+### 💻 Full-Stack Development
 
-**Languages:** JavaScript, TypeScript, C++, Python
+**Languages:** JavaScript, TypeScript, Python, C++
 
-**Frontend:** React.js, Next.js, React Native, Tailwind CSS, HTML5, CSS3, Vite
+**Frontend:** React.js, Next.js, React Native, Tailwind CSS, HTML5, CSS3
 
 **Backend:** Node.js, Express.js, FastAPI, REST APIs, WebSockets, Socket.IO
 
-**Databases:** MongoDB, PostgreSQL, MySQL, Redis, DynamoDB
+**Databases:** MongoDB, PostgreSQL, MySQL, Redis
 
-### Generative AI & LLM Engineering
+### 🤖 Generative AI & LLM Engineering
 
-**LLM Providers:** OpenAI, Google Gemini, Anthropic Claude, Mistral, Meta Llama
+**LLM Providers:** OpenAI, Google Gemini, Anthropic Claude, Mistral
 
-**AI Frameworks:** LangChain, LangGraph, LlamaIndex, OpenAI SDK
+**Frameworks:** LangChain, LangGraph, LlamaIndex
 
-**Core Concepts:** LLMs, Transformers, Prompt Engineering, Tokenization, Embeddings, Structured Outputs, Function Calling, Model Selection
+**RAG & Retrieval:** Embeddings, Chunking, Vector Search, Hybrid Search, Reranking, Metadata Filtering
 
-**RAG & Retrieval:** RAG Pipelines, Document Chunking, Vector Search, Semantic Search, Hybrid Search, Reranking, Metadata Filtering
+**Vector Databases:** Pinecone, Qdrant, Chroma, FAISS, pgvector
 
-**Vector Databases:** Pinecone, Qdrant, Weaviate, Chroma, FAISS, pgvector
+**AI Agents:** Tool Calling, Agentic Workflows, Multi-Agent Systems, Memory, MCP
 
-**AI Agents:** Tool Calling, Agentic Workflows, Multi-Agent Systems, Memory, MCP, Human-in-the-Loop
+**Evaluation & Observability:** LangSmith, Langfuse, RAGAS, DeepEval
 
-**AI Evaluation & Observability:** LangSmith, Langfuse, RAGAS, DeepEval, Promptfoo, LLM Evaluation, Tracing, Guardrails
+**Open-Source Models & Serving:** Hugging Face, Transformers, Ollama, vLLM
 
-**Model Serving & Open Source:** Hugging Face, Transformers, Ollama, vLLM, Model Quantization, LoRA/QLoRA
+### ☁️ DevOps & Infrastructure
 
-**Multimodal AI:** Vision-Language Models, OCR, Speech-to-Text, Text-to-Speech, Voice Agents, Multimodal RAG
+Docker, Docker Compose, Kubernetes, Jenkins, GitHub Actions, AWS, Nginx, Terraform
 
-### DevOps & Infrastructure
+### 🔄 Messaging & Distributed Systems
 
-Docker, Docker Compose, Kubernetes, Jenkins, GitHub Actions, AWS, Nginx, Terraform, Git
-
-### Messaging & Distributed Systems
-
-Apache Kafka, Redis Pub/Sub, Event-Driven Architecture, Microservices, Background Jobs, Caching
+Apache Kafka, Redis Pub/Sub, Event-Driven Architecture, Microservices
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. InvestIQ — AI Investment Research Agent
+### 🤖 InvestIQ — AI Investment Research Agent
 
 An AI-powered application for researching companies and financial information.
 
-- Integrated financial data using the Yahoo Finance API.
-- Built company search and AI-assisted research functionality.
-- Explored LLM orchestration using LangChain.
+- Integrated Yahoo Finance API to retrieve relevant financial market data.
+- Developed company search functionality for streamlined investment research workflows.
+- Leveraged LangChain to orchestrate AI-powered financial research capabilities.
+- Connected financial data retrieval with intelligent, user-focused research experiences.
 
-**Tech:** JavaScript, LangChain, Yahoo Finance API, [add the remaining technologies used]
+**Tech:** JavaScript, React.js, Node.js, LangChain, LangGraph, Yahoo Finance API, TanStack Query
 
-[GitHub Repository](https://github.com/Harshsaini555/investIQ)
+[View Repository →] https://github.com/Harshsaini555/investIQ
 
-### 2. Notiflow — Event-Driven Notification Platform
+### ⚡ Notiflow — Event-Driven Notification Platform
 
-A notification platform built around asynchronous processing and real-time delivery.
+A notification platform designed for asynchronous processing and real-time delivery.
 
-- Integrated Apache Kafka for event-driven communication.
-- Used Redis Pub/Sub and WebSockets for real-time notifications.
-- Implemented JWT authentication and MongoDB integration.
-- Containerized services with Docker and explored Kubernetes deployment.
+- Implemented Apache Kafka for reliable event-driven notification processing.
+- Integrated Redis Pub/Sub for efficient inter-service event communication.
+- Built WebSocket gateway enabling real-time notification delivery to clients.
+- Containerized application services using Docker and Kubernetes deployment workflows.
 
-**Tech:** Next.js, Kafka, Redis, WebSockets, MongoDB, Docker, Kubernetes
+**Tech:** Next.js, Node.js, Kafka, Redis, Microservices, WebSockets, MongoDB, Docker, Kubernetes
 
-[GitHub Repository](YOUR_NOTIFLOW_REPOSITORY_URL)
+[View Repository →] https://github.com/Harshsaini555/notiflow
 
-### 3. Konnect — Real-Time Video Conferencing
+### 👥 TeamSync — Real-Time Team Collaboration Platform
 
-A real-time communication application built using web technologies.
+A collaborative application designed to improve team communication and productivity.
 
-- Implemented signaling using Socket.IO.
-- Used WebRTC for peer-to-peer communication.
-- Integrated JWT-based authentication.
+- Built collaborative workflows enabling teams to coordinate tasks efficiently.
+- Implemented real-time updates to keep team members synchronized.
+- Developed backend APIs supporting team collaboration and resource management.
+- Designed an intuitive interface for seamless team communication experiences.
 
-**Tech:** React, WebRTC, Socket.IO, JWT
+**Tech:** Next.js, TypeScript, Node.js, Express.js, MongoDB, Redis, Zod
 
-[GitHub Repository](YOUR_KONNECT_REPOSITORY_URL)
-
-### 4. SyncSpace — Cloud File Management
-
-A cloud-based file management application with authentication and storage functionality.
-
-**Tech:** JavaScript, Appwrite, [add the remaining technologies used]
-
-[GitHub Repository](YOUR_SYNCSPACE_REPOSITORY_URL)
-
----
-
-## 🧠 Currently Exploring
-
-- Advanced Retrieval-Augmented Generation (RAG)
-- AI agents and workflow orchestration with LangGraph
-- LLM evaluation, tracing, and observability
-- Secure and reliable AI application design
-- Scalable backend architecture and system design
-- Deploying and monitoring production AI applications
+[View Repository →] https://github.com/Harshsaini555/TeamSync
 
 ---
 
 ## 🏆 Achievements
 
-- Solved 400+ LeetCode problems using C++.
-- Achieved rank 2329 in a LeetCode contest with 34,000+ participants.
-- Secured 3rd place in a GeeksforGeeks hackathon.
-- Selected among the top teams in Smart India Hackathon internal selections.
-- Selected for GirlScript Summer of Code contributions.
+- 💻 Solved 500+ LeetCode problems using C++.
+- 🥇 Secured 3rd place in a GeeksforGeeks hackathon.
+- 🚀 Selected among the top teams in Smart India Hackathon internal selections.
+- 🏅 Achieved rank 2329 in a LeetCode contest with 34,000+ participants.
+- 🌱 Selected for GirlScript Summer of Code contributions.
 
 ---
 
-## 🔗 Connect With Me
+## 📊 Coding Profiles
 
-- **GitHub:** https://github.com/Harshsaini555
-- **LinkedIn:** [Your LinkedIn URL]
-- **LeetCode:** [Your LeetCode URL]
-- **Portfolio:** [Your portfolio URL]
+<p align="center">
+  <a href="https://github.com/Harshsaini555">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-*Building at the intersection of software engineering and artificial intelligence.* 🚀
+## 🤝 Let's Connect
+
+I'm always interested in discussing Full-Stack Development, Generative AI, backend architecture, and building impactful products.
+
+**Always learning. Always building. 🚀**
