@@ -1,4 +1,6 @@
-<img src="./banner.png" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%;">
+<p align="center">
+  <img src="./banner.png" alt="My Banner" width="100%">
+</p>
 
 
 <h1 align="center"> Hi, I'm Harsh Saini 👋 </h1>
